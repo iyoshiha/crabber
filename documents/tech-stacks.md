@@ -12,3 +12,7 @@
 - ci/cd
 - github actions 
 - datadog
+- aws EventBridge
+- aws ECS
+    - EventBridge trigger 
+- 
