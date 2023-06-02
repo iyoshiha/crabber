@@ -15,4 +15,4 @@
 - aws EventBridge
 - aws ECS
     - EventBridge trigger 
-- 
+- swagger: open api 
